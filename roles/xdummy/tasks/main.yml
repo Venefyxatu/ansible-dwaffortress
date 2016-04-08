@@ -10,7 +10,7 @@
   tags: install
 
 - name: Fetch xorg.conf
-  get_url: url=https://www.xpra.org/xorg.conf
+  get_url: url=http://www.xpra.org/xorg.conf
            dest=/xorg.conf
   tags: install
 
