@@ -8,5 +8,5 @@ dfhack_version: "0.40.24-r3"
 x_display: ":100"
 
 # Screen resolution
-screen_x: 1280
-screen_y: 960
+screen_x: 1920
+screen_y: 1080
